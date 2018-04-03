@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-data-gae.iml" filepath="$PROJECT_DIR$/.idea/spring-data-gae.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-data-gae_endpointsSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-data-gae_endpointsSrc.iml" group="spring-data-gae" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-data-gae_functionalTest.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-data-gae_functionalTest.iml" group="spring-data-gae" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-data-gae_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-data-gae_main.iml" group="spring-data-gae" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-data-gae_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-data-gae_test.iml" group="spring-data-gae" />
+    </modules>
+  </component>
+</project>
