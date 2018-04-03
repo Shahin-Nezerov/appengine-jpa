@@ -4,7 +4,9 @@ ehthumbs.db
 
 # Folder config file
 Desktop.ini
-
+build/
+.gradle/
+.idea/
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
@@ -26,7 +28,8 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must ends with two \r.
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -40,3 +43,5 @@ Icon
 .classpath
 .settings
 .gradle
+
+
